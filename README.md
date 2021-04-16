@@ -71,7 +71,7 @@ ORDER BY SUM(CAST(dm.inflation_adjusted_gross AS NUMERIC)) DESC
 -- So, General Audiences - G with "Snow White and the Seven Dwarfs" as the hihgest by Gross Income
 
 --
--- Lisginf all the moving in descending order by their inflation adjusted gross
+-- Lisging all the moving in descending order by their inflation adjusted gross
 -- % change between toatl gross and inflation adjusted gross
 -- Also, create a running total of all for all movies
 --
